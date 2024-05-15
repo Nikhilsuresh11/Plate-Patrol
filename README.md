@@ -1,6 +1,3 @@
-Certainly! Below is an updated README template to include the Python interface for capturing images in real-time using the camera in addition to the IPython Notebook implementation:
-
----
 
 # Automated Number Plate Recognition (ANPR) using OpenCV and Camera
 
